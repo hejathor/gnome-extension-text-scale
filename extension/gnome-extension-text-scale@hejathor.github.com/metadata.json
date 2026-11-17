@@ -1,0 +1,8 @@
+{
+  "uuid": "gnome-extension-text-scale@hejathor.github.com",
+  "name": "Text Scale",
+  "description": "Choose a text scaling preset from Quick Settings.",
+  "version": 1,
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.desktop.interface"
+}
